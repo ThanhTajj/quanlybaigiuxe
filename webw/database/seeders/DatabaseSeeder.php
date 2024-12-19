@@ -19,5 +19,11 @@ class DatabaseSeeder extends Seeder
             'name' => 'Test User',
             'email' => 'test@example.com',
         ]);
+
+        Book::create([
+            'BookID'=>'b11',
+            'Title'=>'test1',
+            
+        ]);
     }
 }
