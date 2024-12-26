@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Wiki</title>
+        <title>Quanlybaigiuxe</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -24,12 +24,7 @@
     </head>
     <body>
         <div class="menu">
-            <a href="https://refactored-space-parakeet-qr4ggw49q94fx79w-8001.app.github.dev/">Home page</a>
-            <ul>
-                <li>Character</li>
-                <li>Artifact</li>
-                <li>Equipment</li>
-            </ul>
+            <p>Hello</p>
         </div>
     </body>
     
